@@ -48,31 +48,6 @@ This project covers the complete, foundational machine learning workflow from st
 
 ---
 
-## 🏁 How to Run
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/pokemon-cp-predictor.git](https://github.com/YOUR_USERNAME/pokemon-cp-predictor.git)
-    cd pokemon-cp-predictor
-    ```
-
-2.  **Install the required libraries:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.  **Run the script or notebook:**
-    * If it's a **Jupyter Notebook (`.ipynb`)**:
-        ```bash
-        jupyter notebook pokemon_predictor.ipynb
-        ```
-    * If it's a **Python script (`.py`)**:
-        ```bash
-        python pokemon_predictor.py
-        ```
-
----
-
 ## 📊 Dataset
 
 The dataset used is the "Pokemon with stats" dataset, publicly available on Kaggle.
